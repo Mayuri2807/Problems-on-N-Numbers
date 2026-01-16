@@ -1,11 +1,11 @@
 /* Write a program that accepts n numbers from the user, stores them in an array,
-   and checks whether the array is sorted in ascending order.
+   and checks whether the array is sorted in ascending order. 
 
 Input: 10 20 30 40 50
-Output: Array is sorted
+Output: Array is sorted 
 
 Input: 10 50 30 40
-Output: Array is not sorted
+Output: Array is not sorted 
 */
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -59,6 +59,7 @@ int main()
 
     return 0;
 }
+
 
 
 
